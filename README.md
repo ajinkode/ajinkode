@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **ajinkode@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/136N0_oOxw67ADuggPXBdFf-_fFeaECq0/view?usp=sharing](https://drive.google.com/file/d/136N0_oOxw67ADuggPXBdFf-_fFeaECq0/view?usp=sharing)
+
 - ⚡ Fun fact **All the stuff on the internet? It weighs about as much as a regular old egg! 🥚**
 
 <h3 align="left">Connect with me:</h3>
