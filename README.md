@@ -2,7 +2,8 @@
 <h3 align="center">This is the place where I make and break stuff⚠️🔥</h3>
 
 
-![0538b872445533 5cd6dee40a4ad](https://github.com/ajinkode/ajinkode/assets/127986789/43f5ab7e-6f77-4611-bf9b-287f65836f0c)
+
+![blue nature(1)](https://github.com/ajinkode/ajinkode/assets/127986789/0e6dcdf5-2f77-4a7c-a84a-4da74237e6c3)
 
 
 
