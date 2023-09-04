@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ajinkya</h1>
 <h3 align="center">This is the place where I make and break stuff⚠️🔥</h3>
 
+![0538b872445533 5cd6dee40a4ad](https://github.com/ajinkode/ajinkode/assets/127986789/2febd58d-681d-4cc3-a11f-183028d41442)
+
+
+
 - 🔭 I’m currently working on **AI Chatbots**
 
 - 🌱 I’m currently learning **ReactJS, MongoDB and Deep Learning**
