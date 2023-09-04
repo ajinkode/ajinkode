@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ajinkya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ajinkode/github-readme-stats?theme=prussian)
+[![Ajinkya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkode)](https://github.com/ajinkode/github-readme-stats?theme=prussian)
 
 
