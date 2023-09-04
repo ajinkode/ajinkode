@@ -2,8 +2,7 @@
 <h3 align="center">This is the place where I make and break stuff⚠️🔥</h3>
 
 
-
-![Uploading blue nature(2).jpg…]()
+![blue nature(2)](https://github.com/ajinkode/ajinkode/assets/127986789/a233b541-b2f5-4161-af86-256913dc17fe)
 
 
 
