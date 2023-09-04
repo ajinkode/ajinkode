@@ -3,7 +3,7 @@
 
 
 
-![blue nature(1)](https://github.com/ajinkode/ajinkode/assets/127986789/0e6dcdf5-2f77-4a7c-a84a-4da74237e6c3)
+![Uploading blue nature(2).jpg…]()
 
 
 
