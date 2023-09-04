@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajinkya</h1>
-<h3 align="center">This is the place where I make and break stuff⚠️</h3>
+<h3 align="center">This is the place where I make and break stuff⚠️🔥</h3>
 
 - 🔭 I’m currently working on **AI Chatbots**
 
