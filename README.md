@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajinkya🧑‍💻</h1>
 <h2 align="center">A passionate 4th year undergrad studying Computer Science at NIT Durgapur. Interested in building projects on Conversational AI and Deep Learning.</h2>
-<br />
 <h3 align="center">This is the place where I make and break stuff⚠️🔥</h3>
 
 <br />
