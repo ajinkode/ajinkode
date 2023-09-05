@@ -22,7 +22,7 @@
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/136N0_oOxw67ADuggPXBdFf-_fFeaECq0/view?usp=sharing)
 
 <h3>Connect with me:</h3>
-<a href="https://linkedin.com/ajinkode">
+<a href="https://linkedin.com/in/ajinkode">
 <img src="https://skillicons.dev/icons?i=linkedin">
 
 <a href="https://twitter.com/ajinkode">
