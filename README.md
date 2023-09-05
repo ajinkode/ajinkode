@@ -4,7 +4,6 @@
 <h3 align="center">This is the place where I make and break stuff⚠️🔥</h3>
 
 <br />
-<br />
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ajinkode/ajinkode/assets/127986789/2eda3f9f-4e8a-49e8-8626-819ab60684c1">
 <!-- ![blue nature(2)](https://github.com/ajinkode/ajinkode/assets/127986789/a233b541-b2f5-4161-af86-256913dc17fe) -->
