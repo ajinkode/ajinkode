@@ -8,9 +8,6 @@
 <!-- ![blue nature(2)](https://github.com/ajinkode/ajinkode/assets/127986789/a233b541-b2f5-4161-af86-256913dc17fe) -->
 <!-- ![Frame 1](https://github.com/ajinkode/ajinkode/assets/127986789/2eda3f9f-4e8a-49e8-8626-819ab60684c1) -->
 
-
-
-
 - 🔭 I’m currently working on **AI Chatbots**
 
 - 🌱 I’m currently learning **ReactJS, Deep Learning and DSA**
