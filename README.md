@@ -47,6 +47,6 @@
 </p>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=ajinkode&theme=transparent)](https://git.io/streak-stats) -->
-<!-- [Profile Views](https://komarev.com/ghpvc/?username=ajinkode&label=PROFILE+VIEWS) -->
+[Profile Views](https://komarev.com/ghpvc/?username=ajinkode&label=PROFILE+VIEWS)
 <br />
 <br />
