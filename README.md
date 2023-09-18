@@ -34,7 +34,7 @@
 <br />
 
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=ajinkode&theme=transparent" alt="ajinkode" /> </p>
-
+<br />
 <h2 align="center">My Web Development Toolkit</h2>
 
 <p align="center">
