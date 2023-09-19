@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **AI Chatbots**
 
-- 🌱 I’m currently learning **ReactJS, Deep Learning and DSA**
+- 🌱 I’m currently learning **ReactJS and LLM Development**
 
 - 💬 Ask me about **AI, ML, Deep Learning**
 
