@@ -35,6 +35,13 @@
 
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=ajinkode&theme=transparent" alt="ajinkode" /> </p>
 <br />
+
+<h3 align="center">My Leetcode Stats</h2>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/ajinkode?ext=heatmap" alt="ajinkode" /> </p>
+
+<br />
+
+
 <h2 align="center">My Web Development Toolkit</h2>
 
 <p align="center">
