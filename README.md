@@ -37,7 +37,7 @@
 <br />
 
 <h3 align="center">My Leetcode Stats</h2>
-<p align="center"> <img src="https://leetcard.jacoblin.cool/ajinkode?ext=heatmap" alt="ajinkode" /> </p>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/efficientgoose?ext=heatmap" alt="ajinkode" /> </p>
 
 <br />
 
